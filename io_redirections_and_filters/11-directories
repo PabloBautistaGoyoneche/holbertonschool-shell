@@ -1,1 +1,2 @@
-#!/bin/basfind . -mindepth 1 -type d | wc -ll
+#!/bin/bash
+find . -mindepth 1 -type d | wc -ll
